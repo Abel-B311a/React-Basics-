@@ -1,9 +1,11 @@
 import Btn from './Btn';
+import Guess from './Guess';
 import './App.css';
 
 function App() {
   return (
-    <Btn/>
+    <Btn/>,
+    <Guess/>
   );
 }
 
